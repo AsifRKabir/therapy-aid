@@ -5,27 +5,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-        // <Navbar bg="white" expand="lg">
-        //     <Container fluid>
-        //         <Navbar.Brand as={Link} to='/'>
-        //             <img className="logo" src={logo} alt="" /> THERAPY AID
-        //         </Navbar.Brand>
-
-        //         <Navbar.Toggle aria-controls="navbarScroll" />
-        //         <Navbar.Collapse id="navbarScroll">
-        //             <Nav className="ms-auto my-2 my-lg-0 "
-        //                 style={{ maxHeight: '100px' }}
-        //                 navbarScroll>
-        //                 <Nav.Link as={Link} to='/'>Home</Nav.Link>
-        //                 <Nav.Link as={Link} to='/services'>Services</Nav.Link>
-        //                 <Nav.Link as={Link} to='/about'>About</Nav.Link>
-        //                 <Nav.Link as={Link} to='/contact'>Contact</Nav.Link>
-        //             </Nav>
-        //         </Navbar.Collapse>
-        //     </Container>
-        // </Navbar >
-
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-white">
             <div className="container-fluid">
                 <Link className="navbar-brand" to='/'>
                     <img className="logo" src={logo} alt="" /> Therapy Aid
