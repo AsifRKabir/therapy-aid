@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 1",
+        "price": 100,
+        "duration": 10,
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 2",
+        "price": 100,
+        "duration": 20,
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 3",
+        "price": 100,
+        "duration": 30,
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 4",
+        "price": 100,
+        "duration": 40,
+        "rating": 3
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 5",
+        "price": 100,
+        "duration": 50,
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 6",
+        "price": 100,
+        "duration": 60,
+        "rating": 5
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 7",
+        "price": 100,
+        "duration": 70,
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/hgsnnvh/course-img.png",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus quo dolore facere molestias, aperiam dignissimos enim alias iure aliquid aspernatur.",
+        "name": "Service Name 8",
+        "price": 100,
+        "duration": 80,
+        "rating": 4
+    }
+]
