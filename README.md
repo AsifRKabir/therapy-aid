@@ -1,8 +1,8 @@
 # Therapy Aid by asifrkabir
 
-Therapy Aid is a sample React project which provides users a platform where they may purchase various services related to Mental Health and Psychology
+Therapy Aid is a React project which provides users a platform where they may purchase various services related to Mental Health and Psychology
 
-The live site can be enjoted [here](https://asifrkabir-therapy-aid.netlify.app/)
+The live site can be enjoyed [here](https://asifrkabir-therapy-aid.netlify.app/)
 
 # Getting Started with Create React App
 
